@@ -11,3 +11,7 @@
 
 [102-Markdown-1](reading-notes-01.md)
 [102-Topic-2](reading-notes-02.md)
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
