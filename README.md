@@ -2,6 +2,9 @@
 
 ## Second Header
 
+
+## Explain the Growth Mindset
+- add paragraph. 
 ### Table Of Contents
 
 #### Links in markdown
